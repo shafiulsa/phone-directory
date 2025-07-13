@@ -219,7 +219,7 @@ app.UseCors("AllowAll");
 
 -   **Description**: Updates a contact.
 ##### Unauthorized:
--   <img width="1633" height="765" alt="1contacts-id-put-un1" src="https://github.com/user-attachments/assets/346ea6a9-1958-443c-8af4-52e3cfb327c9" />
+- <img width="1633" height="765" alt="1contacts-id-put-un1" src="https://github.com/user-attachments/assets/346ea6a9-1958-443c-8af4-52e3cfb327c9" />
 - <img width="1522" height="358" alt="1contacts-id-put-un2" src="https://github.com/user-attachments/assets/ff070a4b-a068-40c2-a910-871e3eff36bb" />
 #####  Authorized:
 - <img width="1613" height="744" alt="1contacts-id-put-au1" src="https://github.com/user-attachments/assets/e6bf8abb-d654-4f9a-891b-edaf232f2938" />
