@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mu4fU31gk69HZ662wJeuyBBRxSs34HkKBeepDHZLZ9M=",
+  "Source": "PhoneDirectory.Api",
+  "BasePath": "_content/PhoneDirectory.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
